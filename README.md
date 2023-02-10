@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Me apaixonei por tudo que envolve código aos 17 anos, atualmente estudo o desenvolvimento Front-End, mas meu objetivo é me tornar um Dev Full-Stack nos próximos anos. Aqui você pode ver meus melhores projetos e acompanhar minha evolução.
+Me apaixonei por tudo que envolve código aos 18 anos, atualmente estudo o desenvolvimento Front-End, mas meu objetivo é me tornar um Dev Full-Stack nos próximos anos. Aqui você pode ver meus melhores projetos e acompanhar minha evolução.
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [lscarletproductions7@gmail.com](mailto:lscarletproductions7@gmail.com)
